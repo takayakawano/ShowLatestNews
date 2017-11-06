@@ -11,7 +11,7 @@ In this sample, when an agent or salesperson opens a support case or an opportun
 2. Click the [Latest News] Tab.
 3. Auto showing the latest news of cutomer in Bing.
 4. Click open easch news with another session tab.
-https://msdnshared.blob.core.windows.net/media/2017/10/image1189.png
+![image1189](https://msdnshared.blob.core.windows.net/media/2017/10/image1189.png)
 
 I tested with Microsoft Dynamics 365 Online July 2017 Update (9.0.0) with Bing News API.
 
