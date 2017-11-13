@@ -1,0 +1,18 @@
+﻿#site-box {
+}
+#image-box {
+    float:left;
+}
+#link-box {
+    float:left;
+    width:800px;
+}
+#image-box-even {
+    float:left;
+    background-color:#F3F3F3;
+}
+#link-box-even {
+    float:left;
+    width:800px;
+    background-color: #F3F3F3;
+}
